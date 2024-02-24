@@ -21,7 +21,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">  
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  
+
   <!-- GIF -->
   <!-- <img align="right" alt="Cowboy"  height="160" src="https://giphy.com/static/img/error_pages/crying-cowbow-emoji.gif"> -->
   <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
@@ -36,6 +36,11 @@
  	<a href="https://www.twitch.tv/brunorafaelap" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunorafaelap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-da-silva-305130134" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <p align="left"> 
+    Visitor count<br>
+    <img alight="left" src="https://profile-counter.glitch.me/brunorafaeI/count.svg" />
+  </p>
  
  ![Snake animation](https://github.com/brunorafaeI/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
  
